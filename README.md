@@ -56,9 +56,7 @@
   <a href="mailto:rayanaouf1512@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-    <img height='40' src='https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F16061?style=for-the-badge&logo=ko-fi&logoColor=white' border='0' alt='Buy Me a Coffee' />
-  </a>
+
 </div>
 
 ---
